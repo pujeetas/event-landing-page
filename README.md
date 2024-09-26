@@ -1,8 +1,20 @@
-# React + Vite
+Event Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+--Description--
 
-Currently, two official plugins are available:
+This repository contains a modern and responsive event landing page built with HTML, Tailwind CSS, and Vite. The landing page is designed to provide event details, a call-to-action for registration, and other essential information in a visually appealing manner.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--Features--
+
+->Responsive design using Tailwind CSS
+->Fast build and development process with Vite
+->Clean and minimalistic UI
+->Mobile-first layout
+->Optimized for performance
+->Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+
+--Technologies Used--
+
+HTML5: Structuring the webpage.
+Tailwind CSS: Utility-first CSS framework for styling.
+Vite: Fast front-end build tool for development and bundling.
